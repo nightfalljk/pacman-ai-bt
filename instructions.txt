@@ -1,0 +1,12 @@
+Note: In most cases the agent manages to complete the first level, 
+but there are some cases where it gets stuck and dies before it can clear all pellets
+
+In order to run the game:
+
+Navigate to the "Pacman" folder in a shell of your choice 
+(Make sure python, numpy, and pygame are installed)
+
+Then run the command 'python run.py' in the shell and watch Pacman play itself
+
+Alternatively: Open the project in an IDE and execute run.py using an appropriate 
+python interpreter 
